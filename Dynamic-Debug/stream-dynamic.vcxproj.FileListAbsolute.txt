@@ -1,0 +1,1 @@
+C:\Program Files (x86)\Microchip\GestIC SDK 1.2.0\apps\Windows\stream-dynamic\Dynamic-Debug\stream-dynamic.exe
